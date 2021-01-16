@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    'runtime',
+    'pallets/template',
+    'node',
+]
+
+[patch.crates-io]
+librocksdb-sys = { git = "https://github.com/hdevalence/rust-rocksdb.git" }

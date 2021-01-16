@@ -1,0 +1,7 @@
+[metadata]
+authors = [" <>"]
+version = "0.1.0"
+license = "MIT"
+
+[node]
+registry = "https://github.com/paritytech/substrate.git"
